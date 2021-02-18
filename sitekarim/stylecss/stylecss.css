@@ -55,7 +55,7 @@ li a:hover:not(.active) {
 .centrer {
   border-radius: 15px 50px 30px;
   background: #73AD21;
-  background-image: url(./pictures/fixedpic.jpg);
+  background-image: url(../pictures/fixedpic.jpg);
   background-size: cover;
   padding: 50px;
   width: 75%;

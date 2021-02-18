@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: arial;
   background-color: #FFFFFF;
-  background-image: url(../pictures/background.jpg);
+  background-image: url(./pictures/background.jpg);
   background-repeat: no-repeat;
   background-size:     cover;
   background-repeat:   no-repeat;
